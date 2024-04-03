@@ -16,6 +16,7 @@ https://napari.org/stable/plugins/index.html
 -->
 
 ## Installation
+First, clone the repository `git clone https://github.com/joonkeekim/mediar-napari.git`
 
 ```shell
 conda create -y -n mediar-napari -c conda-forge python=3.8
