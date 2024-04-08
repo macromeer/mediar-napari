@@ -48,6 +48,7 @@ We will soon modify the code for using our weights easily
 ## Running the software
 
 ```shell
+cd mediar-napari/ # run from the folder otherwise it will not find the models in subfolder /weights
 napari -w mediar
 ```
 
